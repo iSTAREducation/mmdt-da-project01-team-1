@@ -1,0 +1,55 @@
+GED -ID,Name,Age,Gender,Location,Highest Education,Specilization in High School,Current Job/School,Eng,Math,Final Results,Subjects To Attend,Num_subjects_taken,Scholars,Type,Commitment,Socio-economic background,Entranced,English,Interview,Final Score,Pass/Fail,Combined_Remark
+GED2024001,Aung Khant Hein,22,Male,Mandalay,Pass University First Year,အတွဲ(၇) ဇီဝဗေဒ,student,23.0,26.0,Accept,All 4 Subjects,4.0,4.0,Full,Low,student,unknown,unknown,unknown,unknown,unknown,Drop
+GED2024002,Khant Nyi Zin,16,Male,Mandalay,Pass 7th Grade,Not applicable,Not applicable,39.0,38.0,Accept,All 4 Subjects,3.0,3.0,Full,High,unknown,unknown,unknown,unknown,unknown,unknown,"Math , Science, RLA"
+GED2024003,Shwe Yee Phyoe,19,Female,Sagaing,Pass 10th Grade,သိပ္ပံတွဲ,English Class တက်နေပြီး Dream Education မှာ Volunteer လုပ်နေပါတယ်။,37.0,36.0,Accept,All 4 Subjects,4.0,4.0,Full,High,job,unknown,unknown,unknown,unknown,unknown,
+GED2024004,Myat Ko Ko Khant,15,Male,Sagaing,Pass 7th Grade,unknown,cdm student,32.0,32.0,Accept,All 4 Subjects,4.0,4.0,Full,Low,student,unknown,unknown,unknown,unknown,unknown,Drop
+GED2024006,Kyal Sin Thwel,16,Female,Yangon,Pass 8th Grade,အီကို,ကျောင်းသူ,33.0,28.0,Accept,All 4 Subjects,4.0,2.0,Partial,High,student,unknown,unknown,unknown,unknown,unknown,
+GED2024007,Aye Mon Yadanar Aung,18,Female,Yangon,Pass 10th Grade,Biology,Intern,42.0,36.0,Accept,All 4 Subjects,4.0,2.0,Partial,High,job,unknown,unknown,unknown,unknown,unknown,
+GED2024008,Myat Htoo Kyaw,17,Male,Yangon,Pass 9th Grade,Bio,Grade 10,27.0,30.0,Accept,All 4 Subjects,4.0,2.0,Partial,High,student,unknown,unknown,unknown,unknown,unknown,
+GED2024009,Htun Pa Pa Linn,17,Female,Bago,Pass 9th Grade,-,-,42.0,32.0,Accept,All 4 Subjects,2.0,2.0,Full,Low,unknown,unknown,unknown,unknown,unknown,unknown,Drop
+GED2024010,Moh Moh Win,19,Female,Yangon,Pass 9th Grade,Bio,မတက်ပါ,25.0,34.0,Accept,All 4 Subjects,4.0,2.0,Partial,High,unknown,unknown,unknown,unknown,unknown,unknown,
+GED2024012,Than Cynn Oo,16,Female,Thailand (Mae Sot),Pass 9th Grade,BIO,Student ,29.0,34.0,Accept,All 4 Subjects,4.0,2.0,Partial,Low,student,unknown,unknown,unknown,unknown,unknown,Drop
+GED2024013,Nann Oak,19,Female,Yangon,Pass 10th Grade,bio,.,34.0,30.0,Accept,All 4 Subjects,2.0,2.0,Full,High,unknown,unknown,unknown,unknown,unknown,unknown,Math & Science Only
+GED2024014,Sa SannLin,18,Male,Yangon,Pass 9th Grade,သိပ္ပံတွဲ,CDM student,42.0,38.0,Accept,All 4 Subjects,4.0,2.0,Partial,Low,student,unknown,unknown,unknown,unknown,unknown,Drop
+GED2024017,Pun Khattgar,17,Female,Yangon,Pass 9th Grade,Biology,-,44.0,32.0,Accept,All 4 Subjects,2.0,2.0,Full,High,unknown,unknown,unknown,unknown,unknown,unknown,
+GED2024018,Kyal Sin Thaw,17,Female,Mon,Pass 9th Grade,Grade 12မတတ်ရသေးပါ။,။,40.0,Unknown,Accept,Soical + RLA,2.0,2.0,Full,High,unknown,unknown,unknown,unknown,unknown,unknown,RLA & Social  only
+GED2024019,Kyaw Myo Thura Htun,30,Male,Thailand (Mae Sot),Other,ပထမနှစ် (မြန်မာစာ),News Editor,25.0,20.0,Accept,All 4 Subjects,4.0,0.0,Partial,Low,job,unknown,unknown,unknown,unknown,unknown,Drop
+GED202402_07,unknown,18,Male,Yangon,Pass 9th Grade,Biology ,Unknown,unknown,60.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,70.0,66.7,65.5,Pass,
+GED202402_08,unknown,19,Male,Yangon,Pass 10th Grade,science ,I haven't joined university ,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,54.0,70.0,67.9,Pass,
+GED202402_09,unknown,19,Female,Mon,Pass 9th Grade,Bio,မရှိပါ,unknown,50.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,58.0,76.7,60.8,Pass,
+GED202402_14,unknown,17,Female,Shan,Pass 9th Grade,Biology ,School,unknown,45.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,56.0,86.7,61.35,Pass,Drop out
+GED202402_15,unknown,18,Male,Mandalay,Pass 9th Grade,Bio,Mandalay Federal School,unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,80.0,90.0,86.5,Pass,
+GED202402_18,unknown,17,Female,Yangon,Pass 8th Grade,မရှိပါ။,I am not currently attending any school.,unknown,60.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,74.0,70.0,67.9,Pass,Drop out
+GED202402_19,unknown,16,Female,Mandalay,Pass 10th Grade,No,No,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,48.0,76.7,67.8,Pass,
+GED202402_24,unknown,24,Male,Shan,Diploma Graduate,Economy ,Baking,unknown,70.0,unknown,unknown,unknown,unknown,unknown,Low,job,Yes,58.0,56.7,61.8,Pass,Drop out
+GED202402_25,unknown,22,Female,Magway,Pass University First Year,သိပ္ပံတွဲ,University of the People(online),unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,80.0,76.7,82.5,Pass,
+GED202402_27,unknown,21,Female,Kachin,Pass University First Year,Science ,"Completed 1st year in Technological University, but postponed it since 2020.",unknown,85.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,72.0,76.7,77.95,Pass,Drop out
+GED202402_28,unknown,22,Male,Thailand (Others),Pass 10th Grade,Biology,Computer University Thaton(First year),unknown,60.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,66.0,63.3,63.1,Pass,Drop out
+GED202402_36,unknown,18,Male,Yangon,Pass 9th Grade,Biology ,Nothing ,unknown,60.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,54.0,80.0,63.9,Pass,
+GED202402_38,unknown,15,Male,Yangon,Pass 9th Grade,.,Pathfinder Institute Myanmar ,unknown,75.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,66.0,63.3,68.35,Pass,
+GED202402_39,unknown,17,Male,Mandalay,Pass 8th Grade,G12 တွင်မတက်ရောက်ရသေးပါ,လက်ရှိ online တွင် Free class ဖြင့် G10 သင်ရိုးသင်ယူနေ,unknown,80.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,40.0,90.0,69.0,Pass,Drop out
+GED202402_48,unknown,15,Female,Yangon,Other,Science,No,unknown,100.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,50.0,63.3,71.5,Pass,
+GED202402_49,unknown,15,Female,Yangon,Other,Science ,No,unknown,100.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,74.0,63.3,79.9,Pass,
+GED202402_58,unknown,18,Male,Yangon,Pass 9th Grade,Economy ,Unknown,unknown,65.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,80.0,53.3,66.75,Pass,Class Rep - May
+GED202402_59,unknown,18,Female,Mandalay,Pass 10th Grade,Bio,CDM Student,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,48.0,83.3,69.8,Pass,
+GED202402_60,unknown,16,Female,Kachin,Pass 9th Grade,-,Student ,unknown,65.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,56.0,63.3,61.35,Pass,Drop Out
+GED202402_61,unknown,16,Male,Magway,Pass 7th Grade,Nothing,"Currently I don't have any class to attend,I just have done my Pre IG class so.",unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,82.0,63.3,79.2,Pass,
+GED202402_64,unknown,15,Male,Shan,Pass 8th Grade,I just pass grade 8 last year,Student ,unknown,70.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,56.0,60.0,62.1,Pass,Drop Out
+GED202402_65,unknown,17,Female,Yangon,Pass 10th Grade,Unknown,Unknown,unknown,75.0,unknown,unknown,unknown,unknown,unknown,Low,unknown,Yes,62.0,70.0,68.95,Pass,Drop Out
+GED202402_66,unknown,19,Male,Sagaing,Pass 10th Grade,Biology ,I'm currently at home.,unknown,95.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,78.0,76.7,83.55,Pass,
+GED202402_67,unknown,18,Female,Mon,Pass 8th Grade,Bio,Federal school ,unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,46.0,70.0,68.6,Pass,
+GED202402_68,unknown,18,Female,Mon,Pass 10th Grade,Biology ,Federal school ,unknown,70.0,unknown,unknown,unknown,unknown,unknown,Low,student,Yes,54.0,66.7,63.4,Pass,Drop Out
+GED202402_73,unknown,15,Female,Mandalay,Pass 8th Grade,-,-,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,66.0,73.3,73.1,Pass,
+GED202402_78,unknown,19,Female,Yangon,Pass 9th Grade,Bio,မရှိပါ,unknown,70.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,46.0,66.7,60.6,Pass,
+GED202402_81,unknown,19,Female,Sagaing,Pass 9th Grade,Biology ,Nothing ,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,50.0,70.0,66.5,Pass,
+GED202402_85,unknown,17,Male,Taninthary,Pass 10th Grade,Grade 11th New (Bio),Student,unknown,95.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,64.0,70.0,76.65,Pass,
+GED202402_90,unknown,12,Female,Yangon,Other,No,Student ,unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,56.0,73.3,73.1,Pass,
+GED202402_91,unknown,22,Female,Kayin,Pass University First Year,Biology ,Tailor ,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,job,Yes,70.0,66.7,72.5,Pass,
+GED202402_92,unknown,18,Female,Yangon,Pass 9th Grade,No,CDM Student,unknown,60.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,48.0,83.3,62.8,Pass,
+GED202402_93,unknown,19,Female,Yangon,Pass 10th Grade,"I'm grade 11old system student and my subjects were Myanmar,English,Mathematics,Biology,Chemistry and Physics.",I am still a student and learning online.,unknown,70.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,60.0,66.7,65.5,Pass,
+GED202402_94,unknown,15,Female,Magway,Pass 9th Grade,-,I'm currently working as a volunteer in non profit organization,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,job,Yes,86.0,86.7,84.1,Pass,
+GED202402_100,unknown,16,Female,Yangon,Pass 8th Grade,-,-,unknown,85.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,80.0,76.7,80.75,Pass,
+GED202402_101,unknown,19,Female,Kayin,Pass 10th Grade,Bio,ကျောင်းနားထားပါတယ်ရှင့်,unknown,80.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,58.0,83.3,73.3,Pass,
+GED202402_102,unknown,18,Male,Yangon,Pass 9th Grade,Eco,Unknown,unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,unknown,Yes,84.0,73.3,82.9,Pass,
+GED202402_104,unknown,17,Female,Yangon,Pass 9th Grade,Bio,Attending Grade-11 via online and doing GED self-study ,unknown,90.0,unknown,unknown,unknown,unknown,unknown,High,student,Yes,64.0,86.7,79.9,Pass,
+GED202402_105,unknown,16,Male,Mon,Pass 9th Grade,Bio,BEHS Zoke Thoke,unknown,0.0,unknown,unknown,unknown,unknown,unknown,High,student,No,0.0,0.0,0.0,Fail,Substitute
