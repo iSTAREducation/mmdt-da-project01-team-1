@@ -1,0 +1,16 @@
+Student ID,GED -ID,Name,Age,Gender,Location,Highest Education,Specilization in High School,Current Job/School,Eng,Math,Final Results,Subjects To Attend,Num_subjects_taken,Remark,Scholars,Type,Commitment,Socio-economic background
+6,GED2024001,Aung Khant Hein,22,Male,Mandalay,Pass University First Year,အတွဲ(၇) ဇီဝဗေဒ,student,23.0,26.0,Accept,All 4 Subjects,4,Drop,4,Full,Low,student
+19,GED2024002,Khant Nyi Zin,16,Male,Mandalay,Pass 7th Grade,Not applicable,Not applicable,39.0,38.0,Accept,All 4 Subjects,3,"Math , Science, RLA",3,Full,High,unknown
+26,GED2024003,Shwe Yee Phyoe,19,Female,Sagaing,Pass 10th Grade,သိပ္ပံတွဲ,English Class တက်နေပြီး Dream Education မှာ Volunteer လုပ်နေပါတယ်။,37.0,36.0,Accept,All 4 Subjects,4,,4,Full,High,job
+41,GED2024004,Myat Ko Ko Khant,15,Male,Sagaing,Pass 7th Grade,,cdm student,32.0,32.0,Accept,All 4 Subjects,4,Drop,4,Full,Low,student
+9,GED2024006,Kyal Sin Thwel,16,Female,Yangon,Pass 8th Grade,အီကို,ကျောင်းသူ,33.0,28.0,Accept,All 4 Subjects,4,,2,Partial,High,student
+17,GED2024007,Aye Mon Yadanar Aung,18,Female,Yangon,Pass 10th Grade,Biology,Intern,42.0,36.0,Accept,All 4 Subjects,4,,2,Partial,High,job
+22,GED2024008,Myat Htoo Kyaw,17,Male,Yangon,Pass 9th Grade,Bio,Grade 10,27.0,30.0,Accept,All 4 Subjects,4,,2,Partial,High,student
+29,GED2024009,Htun Pa Pa Linn,17,Female,Bago,Pass 9th Grade,-,-,42.0,32.0,Accept,All 4 Subjects,2,Drop,2,Full,Low,unknown
+32,GED2024010,Moh Moh Win,19,Female,Yangon,Pass 9th Grade,Bio,မတက်ပါ,25.0,34.0,Accept,All 4 Subjects,4,,2,Partial,High,unknown
+23,GED2024012,Than Cynn Oo,16,Female,Thailand (Mae Sot),Pass 9th Grade,BIO,Student ,29.0,34.0,Accept,All 4 Subjects,4,Drop,2,Partial,Low,student
+24,GED2024013,Nann Oak,19,Female,Yangon,Pass 10th Grade,bio,.,34.0,30.0,Accept,All 4 Subjects,2,Math & Science Only,2,Full,High,unknown
+28,GED2024014,Sa SannLin,18,Male,Yangon,Pass 9th Grade,သိပ္ပံတွဲ,CDM student,42.0,38.0,Accept,All 4 Subjects,4,Drop,2,Partial,Low,student
+46,GED2024017,Pun Khattgar,17,Female,Yangon,Pass 9th Grade,Biology,-,44.0,32.0,Accept,All 4 Subjects,2,,2,Full,High,unknown
+25,GED2024018,Kyal Sin Thaw,17,Female,Mon,Pass 9th Grade,Grade 12မတတ်ရသေးပါ။,။,40.0,Unknown,Accept,Soical + RLA,2,RLA & Social  only,2,Full,High,unknown
+12,GED2024019,Kyaw Myo Thura Htun,30,Male,Thailand (Mae Sot),Other,ပထမနှစ် (မြန်မာစာ),News Editor,25.0,20.0,Accept,All 4 Subjects,4,Drop,0,Partial,Low,job
